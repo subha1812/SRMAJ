@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 " Today is Tuesday "
 
@@ -7,5 +8,8 @@
 
 
 
+=======
+"Learning GIT "
+>>>>>>> subha
 
 
